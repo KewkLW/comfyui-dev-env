@@ -1,5 +1,5 @@
 
-# ComfyUI Python Application Development Environment
+# ComfyUI Debug Environment
 
 This repository contains the setup for ComfyUI, enhanced with debugging capabilities using `debugpy`. This guide will help you set up and run the ComfyUI application, ensure that necessary ports are available, and configure VSCode for debugging.
 
